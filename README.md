@@ -17,7 +17,7 @@
 
 Neste curso aprendemos como trabalhar com HTML e uma base para criar as primeiras páginas WEB. Aprendendo na prática a como estruturar a marcação de uma página e como funciona cada tag, os elementos semânticos e outras boas práticas na hora de construir uma página web.
 
-O resultado disso foi a página layout moderno Wikipédia, segue o link: 
+O resultado disso foi a página layout moderno Wikipédia, segue o link: https://suellendiass.github.io/html-wikipedia-layout-moderno/
 
 Formação HTML Web Developer fornecido pela Dio.me  administrado pelo mentor Diogo Mainardes- Senior Developer
 
