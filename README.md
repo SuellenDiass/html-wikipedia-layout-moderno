@@ -1,5 +1,5 @@
 
-<h1 align="center">  Recriando Wikipedia, com um layout melhor  </h1>
+<h1 align="center">  Recriando wikipedia com um layout melhor  </h1>
 
 <p align="center">
     <img width="600" src="https://user-images.githubusercontent.com/102911341/217342310-2e414981-e239-4805-a223-3fb4c096b633.png">
@@ -15,7 +15,7 @@
  
  Formação HTML Web Developer
 
-Neste curso aprendemos como trabalhar com HTML, uma base para criar as primeiras páginas WEB! Aprendendo na prática a como estruturar a marcação da sua página e como funciona cada tag, os elementos semânticos e outras boas práticas na hora de construir sua primeira página.
+Neste curso aprendemos como trabalhar com HTML e uma base para criar as primeiras páginas WEB. Aprendendo na prática a como estruturar a marcação de uma página e como funciona cada tag, os elementos semânticos e outras boas práticas na hora de construir uma página web.
 
 O resultado disso foi a página layout moderno Wikipédia, segue o link: 
 
@@ -25,23 +25,20 @@ Formação HTML Web Developer fornecido pela Dio.me  administrado pelo mentor Di
 
 ## Funcionalidades
 
-:heavy_check_mark: `Estrutura de uma pagina web:` 
-
-- [x] 
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
 
-:heavy_check_mark: `Formulario:` 
+:heavy_check_mark: `Assuntos abordados:` 
 - [x] HTML Semântico
 - [x] Melhorias nas versões do HTML
 - [x] Acessibilidade
 - [x] Web Scraping
-- [x] <main>, <header>, <footer>
-- [x] <nav>, <section>, <aside>
-- [x] <article>, <blockquote>, <q>
-- [x] <figure>, <figcaption>, <picture>
+- [x] &lt;main&gt;, &lt;header&gt;,&lt;footer&gt;
+- [x] &lt;nav&gt; &lt;section&gt;, &lt;aside&gt;
+- [x] &lt;article&gt;, &lt;blockquote&gt;, &lt;q&gt;
+- [x] &lt;figure&gt;, &lt;figcaption&gt;, &lt;picture&gt;
 - [x] Resenha: o que é SEO?
 
 
